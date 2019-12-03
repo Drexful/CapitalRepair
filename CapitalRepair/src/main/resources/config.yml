@@ -1,0 +1,24 @@
+
+economy:
+  enable: true
+  repair-hand: 5000
+  repair-all: 25000
+
+permissions:
+  admin: "captialrepair.admin"
+  repair-hand: "capitalrepair.hand"
+  repair-all: "capitalrepair.all"
+
+sounds:
+  repair-success:
+    enable: true
+    sound: "anvil_use;10.0;1.5"
+  no-permission:
+    enable: true
+    sound: "villager_no;10.0;0.5"
+  invalid-item:
+    enable: true
+    sound: "anvil_land;10.0;1.5"
+  insufficient-funds:
+    enable: true
+    sound: "villager_no;10.0;0.5"

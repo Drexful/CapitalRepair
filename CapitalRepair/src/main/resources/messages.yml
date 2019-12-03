@@ -1,0 +1,15 @@
+
+repair-hand-success:
+  - "&b&l[!] &3You&b have successfully repaired your &3{item}&b."
+  - "&7&o (( Tip: ${cost} has been taken from your account. ))"
+
+repair-all-success:
+  - "&b&l[!] &3You&b have successfully repaired &3all&b of your items."
+  - "&7&o (( Tip: ${cost} has been taken from your account. ))"
+
+invalid-item:
+  - "&c&l[!] &4You&c must hold a valid item in your hand."
+
+insufficient-funds:
+  - "&c&l[!] &4You&c have insufficient funds to fix this item."
+  - "&7&o (( Tip: You need ${remaining} to afford this. ))"

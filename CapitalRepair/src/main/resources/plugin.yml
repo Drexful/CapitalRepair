@@ -1,0 +1,8 @@
+name: CapitalRepair
+version: ${project.version}
+main: org.capitalbenefits.repair.Main
+authors: [Drexful, CapitalBenefitsLLC]
+description: Give your players permission to repair their items.
+commands:
+  repair:
+    aliases: [fix]
